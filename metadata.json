@@ -1,0 +1,6 @@
+{
+  "name": "NexusPulse - Hybrid B2B & B2C SMM Engine",
+  "description": "Production-grade multi-tenant B2B wholesaler SMM panel and B2C child panel engine with AI profile auditing, split-settlement webhooks, and dynamic domain routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
